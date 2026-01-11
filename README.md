@@ -39,11 +39,13 @@
 ### 💼 Professional Experience
 
 **Android Developer (React Native) | Sky IT Solution**
+<br>
 *Jan 2025 - Present*
 - Developing cross-platform mobile apps using React Native and TypeScript.
 - Implementing authentication, real-time updates, and REST API integration.
 
 **Frontend Developer | CAD Institute of Technology**
+<br>
 *Sept 2024 - June 2025*
 - Built responsive UIs using React.js and optimized component performance.
 
@@ -80,6 +82,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=INSERT_YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" alt="Rahul's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INSERT_YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulpathak&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rahul's Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpathak&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpathak&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
