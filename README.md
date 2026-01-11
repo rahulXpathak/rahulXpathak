@@ -76,15 +76,3 @@
 </table>
 
 **🔬 Research:** Developed a **Lung Tumor Segmentation** model using PyTorch and U-Net architecture to detect tumors from CT scans.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulpathak&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rahul's Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpathak&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpathak&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>
