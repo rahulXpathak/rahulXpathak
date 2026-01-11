@@ -80,6 +80,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulpathak7966&show_icons=true&theme=radical&hide_border=true" alt="Rahul's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpathak7966&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=INSERT_YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" alt="Rahul's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INSERT_YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
