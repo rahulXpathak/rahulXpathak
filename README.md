@@ -1,12 +1,85 @@
-- 👋 Hi, I’m Rahul
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Rahul Pathak</h1>
+<h3 align="center">Full Stack & Mobile App Developer</h3>
 
-<!---
-Rahul7966/Rahul7966 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahulpathak">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rahulpathak7966@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  [cite_start]I am a Computer Science student and developer skilled in building scalable web and mobile applications[cite: 4, 39]. [cite_start]Currently working as an <b>Android Developer (React Native)</b> at Sky IT Solution[cite: 9, 11].
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <br>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 💼 Professional Experience
+
+**Android Developer (React Native) | [cite_start]Sky IT Solution** [cite: 8, 9]
+*Jan 2025 - Present*
+- [cite_start]Developing cross-platform mobile apps using React Native and TypeScript[cite: 12].
+- [cite_start]Implementing authentication, real-time updates, and REST API integration[cite: 13, 14].
+
+**Frontend Developer | [cite_start]CAD Institute of Technology** [cite: 17, 18]
+*Sept 2024 - June 2025*
+- [cite_start]Built responsive UIs using React.js and optimized component performance[cite: 21, 22].
+
+---
+
+### 🚀 Key Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">LinkedIn Clone</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js" />
+        <img src="https://img.shields.io/badge/Express-black?style=flat&logo=express" />
+        <img src="https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb" />
+      </div>
+      [cite_start]<p>A full-stack clone featuring user authentication, profile management, and social interactions like posts and comments[cite: 33].</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Learning Management System (LMS)</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react" />
+        <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js" />
+      </div>
+      <p>An educational platform enabling course access, progress tracking, and mentor communication[cite: 35].</p>
+    </td>
+  </tr>
+</table>
+
+[cite_start]**🔬 Research:** Developed a **Lung Tumor Segmentation** model using PyTorch and U-Net architecture to detect tumors from CT scans[cite: 36, 37].
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulpathak&show_icons=true&theme=radical&hide_border=true" alt="Rahul's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpathak&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
