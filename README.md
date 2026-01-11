@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  [cite_start]I am a Computer Science student and developer skilled in building scalable web and mobile applications[cite: 4, 39]. [cite_start]Currently working as an <b>Android Developer (React Native)</b> at Sky IT Solution[cite: 9, 11].
+  I am a Computer Science student and developer skilled in building scalable web and mobile applications. Currently working as an <b>Android Developer (React Native)</b> at Sky IT Solution.
 </p>
 
 ---
@@ -38,14 +38,14 @@
 
 ### 💼 Professional Experience
 
-**Android Developer (React Native) | [cite_start]Sky IT Solution** [cite: 8, 9]
+**Android Developer (React Native) | Sky IT Solution**
 *Jan 2025 - Present*
-- [cite_start]Developing cross-platform mobile apps using React Native and TypeScript[cite: 12].
-- [cite_start]Implementing authentication, real-time updates, and REST API integration[cite: 13, 14].
+- Developing cross-platform mobile apps using React Native and TypeScript.
+- Implementing authentication, real-time updates, and REST API integration.
 
-**Frontend Developer | [cite_start]CAD Institute of Technology** [cite: 17, 18]
+**Frontend Developer | CAD Institute of Technology**
 *Sept 2024 - June 2025*
-- [cite_start]Built responsive UIs using React.js and optimized component performance[cite: 21, 22].
+- Built responsive UIs using React.js and optimized component performance.
 
 ---
 
@@ -60,7 +60,7 @@
         <img src="https://img.shields.io/badge/Express-black?style=flat&logo=express" />
         <img src="https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb" />
       </div>
-      [cite_start]<p>A full-stack clone featuring user authentication, profile management, and social interactions like posts and comments[cite: 33].</p>
+      <p>A full-stack clone featuring user authentication, profile management, and social interactions like posts and comments.</p>
     </td>
     <td width="50%">
       <h3 align="center">Learning Management System (LMS)</h3>
@@ -68,18 +68,18 @@
         <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react" />
         <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js" />
       </div>
-      <p>An educational platform enabling course access, progress tracking, and mentor communication[cite: 35].</p>
+      <p>An educational platform enabling course access, progress tracking, and mentor communication.</p>
     </td>
   </tr>
 </table>
 
-[cite_start]**🔬 Research:** Developed a **Lung Tumor Segmentation** model using PyTorch and U-Net architecture to detect tumors from CT scans[cite: 36, 37].
+**🔬 Research:** Developed a **Lung Tumor Segmentation** model using PyTorch and U-Net architecture to detect tumors from CT scans.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulpathak&show_icons=true&theme=radical&hide_border=true" alt="Rahul's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpathak&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulpathak7966&show_icons=true&theme=radical&hide_border=true" alt="Rahul's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpathak7966&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
